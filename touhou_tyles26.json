@@ -1,6 +1,6 @@
 {
     "faction": "Touhou Place",
-    "contact": "@kutakanapepene",
+    "contact": "@lilihahattl or @kutakanapepene at https://discord.gg/ktR4YZTXA",
     "templates": [
         {
             "name": "Teimu (Reimu from Temu because we don't have the colors you see we make sure to take the template names seriously here, no but like seriously I thought a lot about it, and by the fact like half the colors don't even work on it i think it's a pretty fitting name, as it also includes Temu in there, aka low cost low quality stuf, I am glad that you are reading that because I'm someone who really likes adding way too much info on one line and break stuff)",
@@ -27,6 +27,10 @@
         {
           "name": "osu!",
           "url": "https://gist.githubusercontent.com/LittleEndu/1575c98edc17df10693808a65607e76e/raw/osutyles.json"
+         },
+         {
+          "name": "Bronyplace",
+          "url": "https://templates.brony.place/tyles/charity.json"
          }
     ],
     "blacklist": []
