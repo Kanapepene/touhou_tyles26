@@ -25,6 +25,14 @@
             ],
             "x": 235,
             "y": 247
+        },
+        {
+            "name": "sanyousei",
+             "sources": [
+                "https://files.catbox.moe/kjqf5o.png"
+            ],
+            "x": 55,
+            "y": 359
         }
     ],
     "whitelist": [
