@@ -17,6 +17,14 @@
             ],
             "x": 63,
             "y": 434
+        },
+        {
+            "name": "miku beside osu",
+             "sources": [
+                "https://files.catbox.moe/2r1ti1.png"
+            ],
+            "x": 235,
+            "y": 247
         }
     ],
     "whitelist": [
