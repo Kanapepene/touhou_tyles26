@@ -49,6 +49,14 @@
             ],
             "x": 33,
             "y": 354
+        },
+        {
+            "name": "Bad apple",
+             "sources": [
+                "https://files.catbox.moe/hg5we3.png"
+            ],
+            "x": 229,
+            "y": 414
         }
     ],
     "whitelist": [
