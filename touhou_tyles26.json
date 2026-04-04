@@ -41,6 +41,14 @@
             ],
             "x": 10,
             "y": 329
+        },
+        {
+            "name": "shanghai alice",
+             "sources": [
+                "https://files.catbox.moe/u86v4o.png"
+            ],
+            "x": 33,
+            "y": 355
         }
     ],
     "whitelist": [
