@@ -34,6 +34,18 @@
             "x": 55,
             "y": 359
         }
+        {
+            "name": "Reimu and Miku riding on Genji and Teto apparently",
+             "sources": [
+                "https://files.catbox.moe/e0gtnx.png"
+            ],
+            "x": 2,
+            "y": 330
+        },
+    ],
+    "whitelist": [],
+    "blacklist": []
+}
     ],
     "whitelist": [
         {
@@ -50,7 +62,7 @@
          },
         {
           "name": "That one miku guy template",
-          "url": "https://raw.githubusercontent.com/trulyneochaos/miku/refs/heads/main/miku.json"
+          "url": "https://raw.githubusercontent.com/trulyneochaos/miku/refs/heads/main/teto.json"
          }
     ],
     "blacklist": []
