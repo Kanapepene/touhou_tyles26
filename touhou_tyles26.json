@@ -43,10 +43,6 @@
             "y": 330
         },
     ],
-    "whitelist": [],
-    "blacklist": []
-}
-    ],
     "whitelist": [
         {
           "name": "NeuroSama",
